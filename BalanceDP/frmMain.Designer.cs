@@ -1527,7 +1527,7 @@
             this.Column2,
             this.Column3,
             this.Column4});
-            this.dataGridView2.Location = new System.Drawing.Point(10, 46);
+            this.dataGridView2.Location = new System.Drawing.Point(0, 3);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.Size = new System.Drawing.Size(1179, 568);
             this.dataGridView2.TabIndex = 0;
